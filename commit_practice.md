@@ -26,8 +26,9 @@
 
 
 4. Git의 3가지 공간에는 Working Directory, Staging Area, Commits이 있다. (맞으면 O, 틀리면 X)
-   - 답 :
-   - 이유 :
+   - 답 : X
+   - 이유 : Git의 3가지 공간에는 Working Directory : 현재 작업중인 공간 / Staing Area : 저장공간에 올리기전에 임시로 보관하는 공간 / Repository : 최종적으로 저장하는 공간으로 이루어져 있다.
+  
 
 
 
